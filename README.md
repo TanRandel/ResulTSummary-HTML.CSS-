@@ -28,11 +28,11 @@ The challenge is to identify the color variation that are used.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/build-with-flexboxes-leave-a-like-thank-you-3Y0-EY7ZQh))
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://tanrandel.github.io/ResulTSummary/?fbclid=IwAR2mqmiQUVYIk9IMr3KpwXA6oKWQOHTUaONLU0p5AhhslGjyEQRIe_OJkUA))
 
 ## My process
-Build first the hmlt and design from top to bottom.
+Build first the HTML and design from top to bottom.
 
 ### Built with
 
@@ -42,8 +42,8 @@ Build first the hmlt and design from top to bottom.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+
+- Frontend Mentor - [@TanRandel](https://www.frontendmentor.io/profile/TanRandel)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
