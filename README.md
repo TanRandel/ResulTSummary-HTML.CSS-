@@ -28,8 +28,8 @@ The challenge is to identify the color variation that are used.
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/build-with-flexboxes-leave-a-like-thank-you-3Y0-EY7ZQh))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://tanrandel.github.io/ResulTSummary/?fbclid=IwAR2mqmiQUVYIk9IMr3KpwXA6oKWQOHTUaONLU0p5AhhslGjyEQRIe_OJkUA))
+- Solution URL: [https://www.frontendmentor.io/solutions/build-with-flexboxes-leave-a-like-thank-you-3Y0-EY7ZQ]
+- Live Site URL:[https://tanrandel.github.io/ResulTSummary/?fbclid=IwAR2mqmiQUVYIk9IMr3KpwXA6oKWQOHTUaONLU0p5AhhslGjyEQRIe_OJkUA]
 
 ## My process
 Build first the HTML and design from top to bottom.
